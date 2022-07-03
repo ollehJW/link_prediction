@@ -12,7 +12,8 @@ Train Edge 정보: train_edges.txt
 - gnn folder: Graph Neural network 방법
 GCN: gcn_type == 'gcn', gcn_type == 'sage'
 DGCNN: https://muhanzhang.github.io/papers/AAAI_2018_DGCNN.pdf
-환경설정: Pytorch 1.5.0+, dgl 0.6.0 +, ogb, pandas, tqdm, scipy
+
+- gnn 환경설정: Pytorch 1.5.0+, dgl 0.6.0 +, ogb, pandas, tqdm, scipy
 pip install torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1 -f https://download.pytorch.org/whl/torch_stable.html
 
 
